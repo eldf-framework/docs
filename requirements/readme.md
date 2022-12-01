@@ -1,3 +1,5 @@
 # The ELDF Course Production Requirement 
-
-TBD
+For
+* [video](video.md)
+* presentaion
+* scenarious
