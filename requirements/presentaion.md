@@ -15,5 +15,5 @@
 | There is a video summary slide at the end of the presentation |	General|
 | If there is a complex circuit on the slide, comments or other tools should indicate in what order to show the elements of the circuit in the assembly |	Design and Visual Elements |
 | All diagrams, illustrations and tables are needed on the slides and accompany the lecturer's speech. There are no "just in case" elements on the slides |	Design and Visual Elements |
-| If part of the video contains a screencast (screen recording), then the presentation has slides that indicate at what points this screencast should be shown. Note: this can be a slide that says 'Screencast' and in the footer is the text during which the screencast is shown." |	Design and Visual Elements
+| If part of the video contains a screencast (screen recording), then the presentation has slides that indicate at what points this screencast should be shown. Note: this can be a slide that says 'Screencast' and in the footer is the text during which the screencast is shown. |	Design and Visual Elements
 | All pictures and diagrams on the slide are signed for designers has a TOS (what to do with them). There is a copyright (belonging to the expert or taken from the Internet). |	Design and Visual Elements | 
